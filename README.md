@@ -4,7 +4,7 @@
 
 [![Promptlar](https://img.shields.io/badge/Prompt_Sayısı-55+-blue.svg)](#-prompt-koleksiyonu)
 [![Notion](https://img.shields.io/badge/Orijinal-Notion-black.svg)](https://promptlar.notion.site/)
-
+**Notion Linki:** [promptlar.notion.site](https://promptlar.notion.site/)
 ---
 
 ## 📖 Hakkında
@@ -211,4 +211,4 @@ ai-image-prompts/
 
 **Yiğitcan Ural** - [@yigitcanural](https://github.com/yigitcanural)
 
-**Notion Linki:** [promptlar.notion.site](https://promptlar.notion.site/)
+
